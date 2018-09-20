@@ -1,7 +1,9 @@
 # gocrawler
 
 [ Done ] Crawl 51job.com to find target job number and generate pie and bar chart.
+
 [ TODO ] Support lagou.com/zhilian.com
+
 [ TODO ] Fix Chinese support in go-chart
 
 ## Usage
