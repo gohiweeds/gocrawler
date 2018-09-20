@@ -16,13 +16,13 @@ Example:
 	
 	Location Pie Chart and Bar Chart
 
-![https://github.com/gohiweeds/gocrawler/blob/master/cmd/locationbar.png]
+![Location Bar Chart](https://github.com/gohiweeds/gocrawler/blob/master/cmd/locationbar.png)
 
-![https://github.com/gohiweeds/gocrawler/blob/master/cmd/locationpie.png]
+![Location Pie Chart](https://github.com/gohiweeds/gocrawler/blob/master/cmd/locationpie.png)
 
 
 	Salary Pie Chart and Bar Chart
-![https://github.com/gohiweeds/gocrawler/blob/master/cmd/salarybar.png]
+![Salary Bar Chart](https://github.com/gohiweeds/gocrawler/blob/master/cmd/salarybar.png)
 
 
-![https://github.com/gohiweeds/gocrawler/blob/master/cmd/salarypie.png]
+![Salary Pie Chart](https://github.com/gohiweeds/gocrawler/blob/master/cmd/salarypie.png)
